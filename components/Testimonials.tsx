@@ -5,12 +5,12 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 export default function Testimonials() {
   const testimonials = [
-        {
+    {
       id: 1,
-      text: "There's nothing he can't do. His talent, honesty and dedication made our major reno/addition so much easier. His creativity is extraordinary and his custom work is unbelievable. If anyone is looking for a contractor, you can't go wrong with Nathan!",
+      text: "There's nothing he can't do. His talent, honesty and dedication made our major reno/addition so much easier. He was always thinking about what he could do to make it even better. His creativity is extraordinary and his custom work is unbelievable. If anyone is looking for a contractor, you can't go wrong with Nathan!",
       author: "Rose Mary",
       location: "Wiarton"
-    }
+    },
     {
       id: 2,
       text: "Nathan transformed our cottage. The attention to detail on the custom staircase was beyond our expectations. Because he does the work himself, communication was flawless. He is a true craftsman.",
@@ -28,8 +28,7 @@ export default function Testimonials() {
       text: "Honest, reliable, and incredibly skilled. The custom fireplace Nathan built is now the centerpiece of our living room. It's rare to find builders who care this much about the final product.",
       author: "The Henderson Family",
       location: "Wiarton"
-    },
-
+    }
   ];
 
   const [currentTestimonial, setCurrentTestimonial] = useState(0);
