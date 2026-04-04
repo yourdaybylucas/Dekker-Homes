@@ -5,7 +5,7 @@ export default function Hero() {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{ 
-          backgroundImage: 'url("https://picsum.photos/seed/luxurywood/1920/1080?blur=1")',
+          backgroundImage: 'url("/Dekkerhomes_9087.JPEG")',
         }}
       >
         <div className="absolute inset-0 bg-charcoal/60 mix-blend-multiply"></div>
