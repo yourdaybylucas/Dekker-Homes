@@ -2,12 +2,12 @@
 
 export default function Portfolio() {
   const gallery = [
-    { id: 1, url: "https://picsum.photos/seed/woodwork1/800/800", alt: "Custom woodwork detail" },
-    { id: 2, url: "https://picsum.photos/seed/cottage1/800/800", alt: "Cottage exterior" },
-    { id: 3, url: "https://picsum.photos/seed/stairs1/800/800", alt: "Luxury staircase" },
-    { id: 4, url: "https://picsum.photos/seed/kitchen1/800/800", alt: "Renovated kitchen" },
-    { id: 5, url: "https://picsum.photos/seed/fireplace1/800/800", alt: "Custom fireplace mantel" },
-    { id: 6, url: "https://picsum.photos/seed/deck1/800/800", alt: "Large wooden deck" },
+    { id: 1, url: "/Dekkerhomes_4746.heic", alt: "Custom timber staircase in log home" },
+    { id: 2, url: "/Dekkerhomes_9084.JPEG", alt: "Large custom home exterior" },
+    { id: 3, url: "/Dekkerhomes_9093.JPEG", alt: "Luxury master bathroom renovation" },
+    { id: 4, url: "/Dekkerhomes_9091.JPEG", alt: "Bright sunroom interior" },
+    { id: 5, url: "/Dekkerhomes_0103.heic", alt: "Custom woodwork and balcony detail" },
+    { id: 6, url: "/Dekkerhomes_2699.heic", alt: "Finished cottage exterior" },
   ];
 
   return (
