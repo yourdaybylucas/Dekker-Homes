@@ -6,8 +6,8 @@ export default function About() {
           <div className="w-full lg:w-1/2">
             <div className="relative aspect-[3/4] overflow-hidden">
               <img 
-                src="https://picsum.photos/seed/carpenter-portrait/800/1000" 
-                alt="Nathan Dekker - Master Carpenter" 
+                src="/Dekkerhomes_3249.heic" 
+                alt="Nathan Dekker Craftsmanship - Custom Front Entrance" 
                 className="object-cover w-full h-full grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
               />
