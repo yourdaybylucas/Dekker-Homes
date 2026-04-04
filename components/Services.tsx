@@ -23,20 +23,20 @@ export default function Services() {
     {
       title: "Major Additions & Structural Work",
       description: "Expanding your footprint requires more than just framing. We manage the entire process of major additions, ensuring structural integrity, seamless integration with your existing home, and compliance with all local building codes in Grey & Bruce Counties. Whether it's a new wing, a second story, or a massive garage, we build it to last generations.",
-      image: "https://picsum.photos/seed/addition/800/1000",
+      image: "/Dekkerhomes_1486.heic",
       alt: "House addition framing"
     },
     {
       title: "High-End Custom Carpentry",
       description: "The difference between a house and a home is in the details. Our custom carpentry services focus on the focal points of your living space. From sweeping, handcrafted staircases to intricate custom fireplace mantels and built-in cabinetry, we bring artisanal quality to every cut and joint.",
-      image: "https://picsum.photos/seed/staircase/800/1000",
+      image: "/Dekkerhomes_3228.heic",
       alt: "Custom wooden staircase"
     },
     {
       title: "Complete Home & Cottage Renovations",
       description: "Transform your existing space into your dream home or cottage. We specialize in comprehensive renovations that respect the character of your property while updating it for modern living. From gutting and rebuilding kitchens and bathrooms to full-scale interior transformations, our team and trusted subcontractors deliver excellence.",
-      image: "https://picsum.photos/seed/renovation/800/1000",
-      alt: "Renovated cottage interior"
+      image: "/Dekkerhomes_4880.heic",
+      alt: "Renovated kitchen interior"
     }
   ];
 
